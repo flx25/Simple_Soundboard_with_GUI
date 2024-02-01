@@ -208,3 +208,5 @@ void MainWindow::on_pushButton_10_clicked()
     fileDialog.exec();
     sound->Soundfiles[9] = fileDialog.selectedFiles().first();
 }
+
+

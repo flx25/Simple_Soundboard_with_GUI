@@ -22,13 +22,9 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
-
-
 private slots:
     void on_F1_clicked();
     void on_pushButton_clicked();
-
-    void on_pushButton_11_clicked();
 
     void on_F2_clicked();
 
